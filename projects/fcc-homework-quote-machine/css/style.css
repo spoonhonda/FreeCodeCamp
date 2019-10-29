@@ -1,0 +1,25 @@
+body {
+  margin: 20px 20%;
+}
+.issues {
+  font-size: 20px;
+  margin-left: -40px;
+}
+
+.quote-area {
+  min-height: 200px; 
+}
+
+.text {
+  font-size: 30px;
+}
+
+.author {
+  font-size: 20px;
+}
+
+.share {
+  margin-bottom: 10px;
+  padding: 20px;
+  font-size: 40px;
+}

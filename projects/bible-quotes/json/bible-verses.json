@@ -1,0 +1,157 @@
+[  
+    {  
+        "id":0,
+        "quoteText":"Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.",
+        "author":"Rom 12:2"
+    },
+    {  
+        "id":1,
+        "quoteText":"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.",
+        "author":"Phil 4:8"
+    },
+    {  
+        "id":2,
+        "quoteText":"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+        "author":"Phil 4:6"
+    },
+    {  
+        "id":3,
+        "quoteText":"I can do all this through him who gives me strength.",
+        "author":"Phil 4:13"
+    },
+    {  
+        "id":4,
+        "quoteText":"For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.",
+        "author":"Jer 29:11"
+    },
+    {  
+        "id":5,
+        "quoteText":"But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+        "author":"Mt 6:33"
+    },
+    {  
+        "id":6,
+        "quoteText":"And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "author":"Phil 4:7"
+    },
+    {  
+        "id":7,
+        "quoteText":"Trust in the Lord with all your heart and lean not on your own understanding",
+        "author":"Prov 3:5"
+    },
+    {  
+        "id":8,
+        "quoteText":"So do not fear, for I am with you, do not be dismayed, for I am your God. I will strengthen you and help you, I will uphold you with my righteous right hand.",
+        "author":"Isa 41:10"
+    },
+    {  
+        "id":9,
+        "quoteText":"Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
+        "author":"Mt 6:34"
+    },
+    {  
+        "id":10,
+        "quoteText":"In all your ways submit to him, and he will make your paths straight.",
+        "author":"Prov 3:6"
+    },
+    {  
+        "id":11,
+        "quoteText":"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+        "author":"John 3:16"
+    },
+    {  
+        "id":12,
+        "quoteText":"God is our refuge and strength, A very present help in trouble.",
+        "author":"Ps 46:1"
+    },
+    {  
+        "id":13,
+        "quoteText":"Now faith is assurance of [things] hoped for, a conviction of things not seen.",
+        "author":"Heb 11:1"
+    },
+    {  
+        "id":14,
+        "quoteText":"For God gave us not a spirit of fearfulness, but of power and love and discipline.",
+        "author":"2 Tim 1:7"
+    },
+    {  
+        "id":15,
+        "quoteText":"Train up a child in the way he should go, And even when he is old he will not depart from it.",
+        "author":"Prov 22:6"
+    },
+    {  
+        "id":16,
+        "quoteText":"The thief cometh not, but that he may steal, and kill, and destroy: I came that they may have life, and may have it abundantly.",
+        "author":"John 10:10"
+    },
+    {  
+        "id":17,
+        "quoteText":"Wherefore if any man is in Christ, he is a new creature, the old things are passed away, behold, they are become new.",
+        "author":"2 Cor 5:17"
+    },
+    {  
+        "id":18,
+        "quoteText":"Watch ye, stand fast in the faith, quit you like men, be strong.",
+        "author":"1 Cor 16:13"
+    },
+    {  
+        "id":19,
+        "quoteText":"Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "author":"Mt 11:28"
+    },
+    {  
+        "id":20,
+        "quoteText":"but they that wait for Jehovah shall renew their strength, they shall mount up with wings as eagles, they shall run, and not be weary, they shall walk, and not faint.",
+        "author":"Isa 40:31"
+    },
+    {  
+        "id":21,
+        "quoteText":"And bring us not into temptation, but deliver us from the evil one.",
+        "author":"Mt 6:13"
+    },
+    {  
+        "id":22,
+        "quoteText":"Have not I commanded thee? Be strong and of good courage, be not affrighted, neither be thou dismayed, for Jehovah thy God is with thee whithersoever thou goest.",
+        "author":"Josh 1:9"
+    },
+    {  
+        "id":23,
+        "quoteText":" For we have not a high priest that cannot be touched with the feeling of our infirmities, but one that hath been in all points tempted like as we are, yet without sin.",
+        "author":"Heb 4:15"
+    },
+    {  
+        "id":24,
+        "quoteText":"Husbands, love your wives, even as Christ also loved the church, and gave himself up for it",
+        "author":"Eph 5:25"
+    },
+    {  
+        "id":25,
+        "quoteText":"Jehovah is my rock, and my fortress, and my deliverer, My God, my rock, in whom I will take refuge, My shield, and the horn of my salvation, my high tower.",
+        "author":"Ps 18:2"
+    },
+    {  
+        "id":26,
+        "quoteText":"Ask, and it shall be given you, seek, and ye shall find, knock, and it shall be opened unto you",
+        "author":"Mt 7:7"
+    },
+    {  
+        "id":27,
+        "quoteText":"Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time",
+        "author":"1 Pet 5:6"
+    },
+    {  
+        "id":28,
+        "quoteText":"Let those who fear the Lord say, 'His steadfast love endures forever.'",
+        "author":"Ps 118:4"
+    },
+    {  
+        "id":29,
+        "quoteText":"No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money",
+        "author":"Mt 6:24"
+    },
+    {  
+        "id":30,
+        "quoteText":"For where your treasure is, there your heart will be also.",
+        "author":"Mt 6:21"
+    }
+]
